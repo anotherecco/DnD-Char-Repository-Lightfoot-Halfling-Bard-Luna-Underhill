@@ -5,3 +5,4 @@ this readme will contain a few links to key information to look at for this char
 
 Biography link: https://github.com/anotherecco/DnD-Char-Repository-Lightfoot-Halfling-Bard-Luna-Underhill/blob/main/biography.md
 Charakteristics link: https://github.com/anotherecco/DnD-Char-Repository-Lightfoot-Halfling-Bard-Luna-Underhill/blob/main/charakteristics.txt
+adventures and backstory: https://github.com/anotherecco/DnD-Char-Repository-Lightfoot-Halfling-Bard-Luna-Underhill/blob/main/adventures-backstory.md
